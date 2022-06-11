@@ -13,4 +13,3 @@ while(p1<len(arr1) and p2<len(arr2)):
         p2+=1
     elif arr1[p1]<arr2[p2]:
         p1+=1
-        jhghhj
